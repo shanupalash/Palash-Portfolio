@@ -53,7 +53,8 @@ function Home2() {
                 <li>Frameworks: Spring Boot, Microsoft .NET</li>
                 <li>Databases: MySQL, MongoDB</li>
                 <li>
-                  Tools: Git, Data Structures & Algorithms, JWT Authentication
+                  Tools & Concepts: Git, CI/CD Pipelines, JWT Authentication,
+                  Design Patterns, Data Structures and Algorithms{" "}
                 </li>
               </ul>
             </p>
