@@ -2,7 +2,6 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import { ImPointRight } from "react-icons/im";
 
-// Define activities as an array for reusability
 const activities = ["Gym", "Exploring New Adventures"];
 
 function AboutCard() {
@@ -14,17 +13,17 @@ function AboutCard() {
             Hi Everyone, I am <span className="highlight">Palash Sahu</span>{" "}
             from <span className="highlight">Bangalore, India</span>.
             <br />
-            <br></br>
-            i recently completed my Post Graduation in Computer Applications and
+            <br />
+            I recently completed my Post Graduation in Computer Applications and
             am passionate about building secure and scalable web applications.
             <br />
-            <br></br>
+            <br />
             I have completed a Master of Computer Applications (MCA).
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
-          <ul role="list">
+          <ul>
             {activities.map((activity, index) => (
               <li key={index} className="about-activity">
                 <ImPointRight /> {activity}
