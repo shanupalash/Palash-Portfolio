@@ -15,8 +15,8 @@ function AboutCard() {
             from <span className="highlight">Bangalore, India</span>.
             <br />
             <br></br>
-            I am currently enrolled in CDAC-Bangalore pursuing a PG-Diploma in
-            Advanced Computing.
+            I Recently completed my Post Graduation in Computer Applications and
+            have a strong passion for Full Stack Development.
             <br />
             <br></br>
             I have completed a Master of Computer Applications (MCA).

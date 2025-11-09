@@ -48,17 +48,29 @@ function Home2() {
               <br></br>
               <b>Key Skills:</b>
               <ul>
-                <li>Programming: C, C++, Java, JavaScript</li>
-                <li>Web: Node.js, HTML5, CSS3, Bootstrap, RESTful APIs</li>
-                <li>Frameworks: Spring Boot, Microsoft .NET</li>
-                <li>Databases: MySQL, MongoDB</li>
+                <li>Programming: C++, Java, JavaScript , TypeScript</li>
                 <li>
-                  Tools & Concepts: Git, CI/CD Pipelines, JWT Authentication,
-                  Design Patterns, Data Structures and Algorithms{" "}
+                  Backend Technologies: Node.js, Next.js, Express.js, Java
+                  Spring Boot, RESTful APIs, Microservices
+                </li>
+                <li>
+                  FrontEnd Technologies : ReactJS, Redux, HTML5, CSS3,
+                  Bootstrap, Responsive Design
+                </li>
+                <li>Databases: MongoDB, MySQL, PostgreSQL</li>
+                <li>
+                  Tools & Testing: Postman, JUnit, VS Code, IntelliJ IDEA,
+                  Debugging, API Testing{" "}
                 </li>
               </ul>
             </p>
           </Col>
+          {/* Backend Technologies: Node.js, Next.js, Express.js, Java Spring Boot, RESTful APIs, Microservices
+Frontend Technologies: ReactJS, Redux, HTML5, CSS3, Bootstrap, Responsive Design
+Databases: MongoDB, MySQL, PostgreSQL
+Cloud & DevOps: AWS, Docker, Linux, Git/GitHub, Maven, CI/CD Pipelines
+Tools & Testing: Postman, JUnit, VS Code, IntelliJ IDEA, Debugging, API Testing */}
+
           <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="Palash Sahu Avatar" />

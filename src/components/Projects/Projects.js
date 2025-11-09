@@ -26,7 +26,7 @@ function Projects() {
               description="A full-stack platform connecting university alumni and students for networking, mentorship, and career guidance. Features include an alumni directory with advanced search, secure JWT-based authentication, a job board, and an admin dashboard for user and content management."
               ghLink="https://github.com/shanupalash/AumniEcho---University-Alumni-Connect-Platform-"
               link
-              demoLink="https://github.com/shanupalash/AumniEcho---University-Alumni-Connect-Platform-" // Replace with actual demo link
+              demoLink="https://alumni-echo-university-alumni-connect-platform-he01c40x1.vercel.app/signin" // Replace with actual demo link
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               title="Gupshup"
               description="A real-time chat application built with React.js, Node.js, Express.js, and MongoDB. Features user authentication, real-time messaging via Socket.io for group and private chats, and secure REST APIs for user and message management."
               ghLink="https://github.com/shanupalash/Gupshup-App"
-              demoLink="https://github.com/shanupalash/Gupshup-App"
+              demoLink="https://guphup-application.vercel.app/"
             />
           </Col>
 
