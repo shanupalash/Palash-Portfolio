@@ -15,8 +15,8 @@ function AboutCard() {
             from <span className="highlight">Bangalore, India</span>.
             <br />
             <br></br>
-            I Recently completed my Post Graduation in Computer Applications and
-            have a strong passion for Full Stack Development.
+            i recently completed my Post Graduation in Computer Applications and
+            am passionate about building secure and scalable web applications.
             <br />
             <br></br>
             I have completed a Master of Computer Applications (MCA).
